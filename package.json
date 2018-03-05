@@ -1,0 +1,28 @@
+{
+    "name": "nome-api-crud",
+    "version": "1.0.0",
+    "description": "Minha primeira aplicação web",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/csviana/Meu_Primeiro_App"
+    },
+    "dependencies": {
+        "body-parser": "~1.18.1",
+        "express": "~4.15.4",
+        "mongoose": "~4.11.12",
+        "request": "~2.82.0"
+    },
+    "author": "Cleirton Viana",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/csviana/Meu_Primeiro_App/issues"
+    },
+    "homepage": "https://github.com/csviana/Meu_Primeiro_App#readme",
+    "devDependencies": {
+        "nodemon": "^1.17.1"
+    }
+}
